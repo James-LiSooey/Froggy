@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="align-items: center; justify-content: center; height: 566px;">
+        <ui:Label text="Froggy Jump" display-tooltip-when-elided="true" name="MenuStart_Title" style="height: 215px; justify-content: flex-start; align-items: auto; -unity-font-style: normal; -unity-font: resource(&apos;Fonts &amp; Materials/Bangers&apos;); color: rgba(49, 214, 74, 255); -unity-text-align: middle-center; font-size: 36px; width: 215px;" />
+        <ui:Button text="Play" display-tooltip-when-elided="true" name="MenuStart_Play" style="width: 149px; height: 54px; -unity-text-align: middle-center; align-items: center; justify-content: center; font-size: 24px; -unity-font: resource(&apos;Fonts &amp; Materials/Anton&apos;);" />
+        <ui:Button text="Settings" display-tooltip-when-elided="true" name="MenuStart_Options" style="width: 151px; height: 57px; -unity-text-align: middle-center; align-items: center; justify-content: center; padding-left: 6px; margin-left: 20px; margin-top: 20px; margin-bottom: 20px; margin-right: 20px; font-size: 24px; -unity-font: resource(&apos;Fonts &amp; Materials/Anton&apos;);" />
+    </ui:VisualElement>
+</ui:UXML>
